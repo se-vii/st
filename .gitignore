@@ -1,0 +1,19 @@
+# Compiled binary
+st
+
+# Object files
+*.o
+
+# Patch leftovers
+*.rej
+*.orig
+
+# Editor swap files
+*.swp
+
+# Logs
+*.log
+
+# Patch files (if you don’t want to track your local diffs)
+*.diff
+*.patch
